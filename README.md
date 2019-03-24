@@ -2,9 +2,9 @@
 
 Hi there!
 
-I've loved computer my whole life as my dad always had a bunch of computers lying around the house.  I spent hours apon hours tinkering with them and my own to try and understand them.  At the time my Mom had a C++ for dummies book that she gave me to start coding back when I was still in grade school.  I remember going through the first few chapters, though, feelling very overwhelmed by it all. Eventually I did end up making a game but I don't remember much more that that.
+I've loved computer my whole life as my dad always had a bunch of computers lying around the house.  I spent hours apon hours tinkering with them and my own to try and understand them.  At the time my Mom had a C++ for dummies book that she gave me to start coding back when I was still in grade school.  I remember going through the first few chapters, though, feelling very overwhelmed by it all. Eventually I did end up making a game but I don't remember much more than that.
 
-After moving out of my parents house I got a callcenter job a a customer service representative and worked up to supervisor.  I lover leading others however the whole envirement just didn't feel suited for me.  
+After moving out of my parents house I got a callcenter job a a customer service representative and worked up to supervisor.  I love leading others however the whole envirement just didn't feel suited for me.  
 
 I spotted the "Desktop Engineer" position that opened up for the site I worked at and applied and GOT IT! I was very excited and fully enjoyed the work.  During my time there more and more became repetative as I felt I stopped learning new things.  All the while I really needed to make more money to have a less money stresed life and looking at other desktop positions in my city seamed to pay the same.  
 
